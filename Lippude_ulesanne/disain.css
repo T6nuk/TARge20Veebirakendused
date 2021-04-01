@@ -1,0 +1,243 @@
+body{
+    background-color: gray;
+}
+table{
+    width: 330px;
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+td{
+    padding: 0;
+}
+.eestisinine{
+    background-color: blue;
+    height: 70px;
+}
+.eestimust{
+    background-color: black;
+    height: 70px;
+}
+.eestivalge{
+    background-color: white;
+    height: 70px;
+}
+
+.latipunane{
+    background-color: red;
+    height: 66px;
+}
+.lativalge{
+    background-color: white;
+    height: 33px;
+}
+
+.leedukollane{
+    background-color: yellow;
+    height: 70px;
+}
+.leeduroheline{
+    background-color: green;
+    height: 70px;
+}
+.leedupunane{
+    background-color: red;
+    height: 70px;
+}
+
+.soomevalge1{
+    background-color: white;
+    height: 74px;
+    width: 91px;
+}
+.soomesinine{
+    background-color: blue;
+    width: 55px;
+    height: 74px;
+}
+.soomevalge2{
+    background-color: white;
+    width: 184px;
+    height: 74px;
+}
+.soomesininekeskel{
+    background-color: blue;
+    height: 54px;
+}
+
+.rootsisinine1{
+    background-color: blue;
+    height: 83px;
+    width: 102px;
+}
+.rootsikollane{
+    background-color: yellow;
+    height: 83px;
+    width: 43px;
+}
+.rootsisinine2{
+    background-color: blue;
+    height: 83px;
+    width: 185px;
+}
+.rootsikollanekeskel{
+    background-color: yellow;
+    height: 41px;
+}
+
+.norrapunane1{
+    background-color: red;
+    height: 90px;
+    width: 88px;
+}
+.norravalge1{
+    background-color: white;
+    height: 90px;
+    width: 17px;
+}
+.norravalge2{
+    background-color: white;
+    height: 15px;
+    width: 105px;
+}
+.norravalge3{
+    background-color: white;
+    height: 15px;
+}
+.norrasinine{
+    background-color: blue;
+    height: 90px;
+    width: 31px;
+}
+.norrapunane2{
+    background-color: red;
+    height: 90px;
+    width: 177px;
+}
+.norrasininekeskel{
+    background-color: blue;
+    height: 20px;
+}
+.norrasininekeskelvaike{
+    background-color: blue;
+    height: 15px;
+    width: 31px;
+}
+
+
+.islandisinine1{
+    background-color: blue;
+    height: 92px;
+    width: 90px;
+}
+.islandivalge1{
+    background-color: white;
+    height: 92px;
+    width: 15px;
+}
+.islandivalge2{
+    background-color: white;
+    height: 13px;
+    width: 105px;
+}
+.islandivalge3{
+    background-color: white;
+    height: 13px;
+}
+.islandipunane{
+    background-color: red;
+    height: 92px;
+    width: 28px;
+}
+.islandisinine2{
+    background-color: blue;
+    height: 92px;
+    width: 182px;
+}
+.islandipunanekeskel{
+    background-color: red;
+    height: 26px;
+}
+.islandipunanekeskelvaike{
+    background-color: red;
+    height: 13px;
+    width: 28px;
+}
+
+.kreekasinine1{
+    background-color: blue;
+    height: 24.4px;
+    width: 50px;
+}
+.kreekavalge{
+    background-color: white;
+    width: 20px;
+    height: 24.4px;
+}
+.kreekasinine2{
+    background-color: blue;
+    width: 60px;
+    height: 24.4px;
+}
+.kreekavalgekeskel{
+    background-color: white;
+    height: 24.4px;
+}
+.kreekasininetriip{
+    background-color: blue;
+    height: 24.4px;
+}
+.kreekavalgetriip{
+    background-color: white;
+    height: 24.4px;
+    width: 200px;
+}
+.kreekavalgetriipall{
+    background-color: white;
+    height: 24.4px;
+}
+
+.sveitsipunane{
+    background-color: red;
+    height: 62px;
+    width: 330px;
+}
+.ristiylemineosa{
+    background-color: red;
+    width: 61px;
+    height: 72px;
+}
+.ristiylemineosa1{
+    background-color: red;
+    width: 72px;
+    height: 72px;
+}
+.ristiylemineosa2{
+    background: red;
+    width: 73px;
+    height: 72px;
+}
+.ristiylemineosa3{
+    background: red;
+    width: 62px;
+    height: 72px;
+}
+.ristiylemineosavalge{
+    background-color: white;
+    width: 62px;
+    height: 72px;
+}
+.ristikeskmineosa{
+    background-color: red;
+    width: 62px;
+    height: 62px;
+}
+.ristikeskmineosa2{
+    background: red;
+    width: 61px;
+    height: 62px;
+}
+.ristikeskmineosavalge{
+    background-color:white;
+    width: 207px;
+    height: 62px;
+}
