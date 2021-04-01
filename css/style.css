@@ -50,3 +50,10 @@ html, body{
     font-size: 30px;
 }
 
+.background a {
+    color: rgb(173, 139, 45);
+
+}
+.background a:hover {
+    color:rgb(255, 238, 0);
+}
