@@ -1,0 +1,10 @@
+Kodutöö moodles.
+
+Samuti neljanda teema kodutöö järgmiseks korraks!
+Ehk koduleht ja tehtud tööd.
+
+Filezilla alla laadida!
+
+titpe20/koolitoode_index.html
+
+Ideaalis index html võiks olla neljas kodutöö
